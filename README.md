@@ -1,4 +1,4 @@
-I work with hydrological modelling at the Swedish Meteorological and Hydrological Institute
+I work with hydrological modelling at the Swedish Meteorological and Hydrological Institute. I'm responsible for the HYPE code (https://hypeweb.smhi.se/model-water/).
 
 
 <!---
